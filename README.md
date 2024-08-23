@@ -1,26 +1,27 @@
 # Fresh/Deno Todo App
 
-- [Project Overview](#project-overview)
-  - [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Key Files](#key-files)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [How It Works](#how-it-works)
-  - [Todo Management](#todo-management)
-- [Screenshots](#screenshots)
-  - [Home Page](#home-page)
-  - [Adding a Todo](#adding-a-todo)
-  - [Todo List](#todo-list)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
+- [Fresh/Deno Todo App](#freshdeno-todo-app)
+  - [🚀 Project Overview](#-project-overview)
+    - [✨ Features](#-features)
+  - [🛠️ Tech Stack](#️-tech-stack)
+  - [📂 Project Structure](#-project-structure)
+  - [🔑 Key Files](#-key-files)
+  - [🚀 Getting Started](#-getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+  - [🧩 How It Works](#-how-it-works)
+    - [Todo Management](#todo-management)
+  - [📸 Screenshots](#-screenshots)
+    - [Home Page](#home-page)
+    - [Adding a Todo](#adding-a-todo)
+    - [Todo List](#todo-list)
+  - [📝 License](#-license)
+  - [🙌 Acknowledgments](#-acknowledgments)
+  - [📬 Contact](#-contact)
 
 ## 🚀 Project Overview
 
-This is a simple Todo application built with [Fresh](https://fresh.deno.dev/), a Deno framework for creating modern web applications using JavaScript/TypeScript. The project showcases my skills in building full-stack applications with TypeScript, server-side rendering (SSR), and modern front-end development techniques.
+This is a simple Todo application built with [Fresh](https://fresh.deno.dev/), a Deno framework for creating modern web applications using JavaScript/TypeScript. The project showcases my skills in building full-stack applications with TypeScript, server-side rendering (SSR), and modern front-end development techniques. The hosted application can be viewed under the following [link](https://mdumbuya-fresh-todo-app.deno.dev/).
 
 ### ✨ Features
 
