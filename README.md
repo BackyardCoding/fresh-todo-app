@@ -1,5 +1,7 @@
 # Fresh/Deno Todo App
 
+# Table of Contents
+
 - [Fresh/Deno Todo App](#freshdeno-todo-app)
   - [🚀 Project Overview](#-project-overview)
     - [✨ Features](#-features)
