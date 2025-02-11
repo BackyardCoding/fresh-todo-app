@@ -142,8 +142,6 @@ Thanks to [@learnbydoing993](https://github.com/learnbydoing993) for this [code]
 
 Feel free to reach out if you have any questions or suggestions!
 
-[LinkedIn](www.linkedin/in/mdumbu) 
-
 [Mastodon](https://mastodon.social/@backyardcoding)
 
     
